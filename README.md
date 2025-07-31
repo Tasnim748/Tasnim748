@@ -11,7 +11,6 @@
 - 🌱 I'm currently learning **LangGraph and AWS Cloud Fundamentals**
 - 👯 I'm looking to collaborate on **Machine Learning Research Projects** in scientific or medical domains
 - 💬 Ask me about **Web Dev and Agentic AI**
-- 📫 How to reach me: tasnim748@gmail.com
 
 ---
 
@@ -83,7 +82,7 @@ Let's connect and build something awesome together! 🚀
 ## 🌐 Connect with Me
 ✉️ Email: tasnim748@gmail.com
 ### Find me on other platforms:
-<div>
+<p align="left">
 <a href="https://www.linkedin.com/in/tasnimibnjakir" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" height="35px" alt="LinkedIn Badge"/>
 </a>
@@ -96,4 +95,4 @@ Let's connect and build something awesome together! 🚀
 <a href="https://www.facebook.com/tasnim.i.jakir" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35px" height="35px" alt="Facebook Badge"/>
 </a>
-</div>
+</p>
