@@ -1,22 +1,7 @@
 ### 
 <div id="header" align="center">    
 <h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35"> I'm Tasnim Ibn Jakir</h1>
-<h3>Full Stack Developer & AI Practitioner</h3>
-
-<div style="display: flex; gap: 25px; justify-content: center;">
-<a href="https://www.linkedin.com/in/tasnimibnjakir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" height="35px" alt="LinkedIn Badge"/>
-</a>
-<a href="https://www.kaggle.com/tasnimjakir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="35px" height="35px" alt="Kaggle Badge"/>
-</a>
-<a href="https://www.facebook.com/tasnim.i.jakir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35px" height="35px" alt="Facebook Badge"/>
-</a>
-</div>
-
-<br>
-<img src="https://komarev.com/ghpvc/?username=Tasnim748&style=rounded-square&color=blue" height="20px" alt=""/>
+<h3>A Full Stack Developer & AI Practitioner</h3>
 </div>
 
 ---
@@ -94,3 +79,21 @@ What really gets me excited? Building intelligent systems with AI and LLMs! Ther
 When I'm not coding, you'll probably find me diving into AI research papers or experimenting with new frameworks. My physics-trained brain just can't help being curious about how things work under the hood!
 
 Let's connect and build something awesome together! 🚀
+
+## 🌐 Connect with Me
+✉️ Email: tasnim748@gmail.com
+### Find me on other platforms:
+<div>
+<a href="https://www.linkedin.com/in/tasnimibnjakir" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" height="35px" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.kaggle.com/tasnimjakir" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="35px" height="35px" alt="Kaggle Badge"/>
+</a>
+<a href="https://huggingface.co/tasnim748" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35px" height="35px" alt="HF Badge"/>
+</a>
+<a href="https://www.facebook.com/tasnim.i.jakir" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35px" height="35px" alt="Facebook Badge"/>
+</a>
+</div>
