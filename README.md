@@ -7,14 +7,14 @@
   <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="100"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/tasnimibnjakir">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/tasnimibnjakir" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.facebook.com/tasnim.i.jakir">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <a href="https://www.kaggle.com/tasnimjakir" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kaggle.svg" alt="Kaggle Badge"/>
     </a>
-    <a href="https://www.facebook.com/tasnim.i.jakir">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <a href="https://www.facebook.com/tasnim.i.jakir" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" alt="Facebook Badge"/>
     </a>
   </div>
   
