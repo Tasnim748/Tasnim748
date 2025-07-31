@@ -3,8 +3,6 @@
 <h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35"> I'm Tasnim Ibn Jakir</h1>
 <h3>Full Stack Developer & AI Practitioner</h3>
 
-<img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" style="filter: hue-rotate(35deg);" width="100"/>
-
 <div style="display: flex; gap: 25px; justify-content: center;">
 <a href="https://www.linkedin.com/in/tasnimibnjakir" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" height="35px" alt="LinkedIn Badge"/>
