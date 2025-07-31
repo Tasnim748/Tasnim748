@@ -34,7 +34,7 @@
 
 ## Skills
 
-<div align="center">
+<div>
   <h3>Programming Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -44,7 +44,7 @@
   </p>
 </div>
 
-<div align="center">
+<div>
   <h3>Frameworks & Libraries</h3>
   <p>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -64,7 +64,7 @@
   </p>
 </div>
 
-<div align="center">
+<div>
   <h3>Deployment Tools & Platforms</h3>
   <p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -75,7 +75,7 @@
   </p>
 </div>
 
-<div align="center">
+<div>
   <h3>Database Expertise</h3>
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
