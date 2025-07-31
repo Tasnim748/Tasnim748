@@ -8,13 +8,13 @@
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/tasnimibnjakir" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn Badge"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="20px" height="20px" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.kaggle.com/tasnimjakir" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kaggle.svg" alt="Kaggle Badge"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kaggle.svg" width="20px" height="20px" alt="Kaggle Badge"/>
     </a>
     <a href="https://www.facebook.com/tasnim.i.jakir" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" alt="Facebook Badge"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" width="20px" height="20px" alt="Facebook Badge"/>
     </a>
   </div>
   
