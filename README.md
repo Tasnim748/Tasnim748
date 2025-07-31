@@ -1,39 +1,38 @@
 ### 
-<div id="header" align="center">
+<div id="header" align="center">    
+<h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35"> I'm Tasnim Ibn Jakir</h1>
+<h3>Full Stack Developer & AI Practitioner</h3>
 
-  <h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35"> I'm Tasnim Ibn Jakir</h1>
-  <h3>A Full Stack Developer with</h3>
-  
-  <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="100"/>
-  
-  <div style="display: flex; align-items: center; gap: 18px;">
-    <a href="https://www.linkedin.com/in/tasnimibnjakir" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="30px" height="30px" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.kaggle.com/tasnimjakir" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kaggle.svg" width="30px" height="30px" alt="Kaggle Badge"/>
-    </a>
-    <a href="https://www.facebook.com/tasnim.i.jakir" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" width="30px" height="30px" alt="Facebook Badge"/>
-    </a>
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=Tasnim748&style=rounded-square&color=blue" alt=""/>
+<img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" style="filter: hue-rotate(35deg);" width="100"/>
+
+<div style="display: flex; gap: 25px; justify-content: center;">
+<a href="https://www.linkedin.com/in/tasnimibnjakir" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" height="35px" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.kaggle.com/tasnimjakir" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="35px" height="35px" alt="Kaggle Badge"/>
+</a>
+<a href="https://www.facebook.com/tasnim.i.jakir" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35px" height="35px" alt="Facebook Badge"/>
+</a>
+</div>
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=Tasnim748&style=rounded-square&color=blue" height="20px" alt=""/>
 </div>
 
 ---
 
-## About Me
+## 🚀 What I'm Up To
 - 🔭 I'm currently working on **Intelligent Web Scraper and Analyzer** - A web app that extracts structured data from websites and provides analysis capabilities without requiring coding knowledge.
 - 🌱 I'm currently learning **LangGraph and AWS Cloud Fundamentals**
-- 👯 I'm looking to collaborate on **Machine Learning research projects** in scientific or medical domains
+- 👯 I'm looking to collaborate on **Machine Learning Research Projects** in scientific or medical domains
 - 💬 Ask me about **Web Dev and Agentic AI**
 - 📫 How to reach me: tasnim748@gmail.com
 
 ---
 
-## Skills
-
+## 🧰 Tech Stacks
 <div>
   <h3>Programming Languages</h3>
   <p>
@@ -84,3 +83,16 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   </p>
 </div>
+
+
+## 🧩 How I Fit Into Tech
+
+I'm a physics grad who fell in love with coding and tech along the way. My journey from physics equations to Python functions wasn't exactly planned, but it turned out to be one of the best detours I've ever taken!
+
+With my science background, I approach coding problems a bit differently - breaking complex challenges into manageable pieces just like I used to do with physics problems. These days, I work across the full stack, building everything from slick user interfaces to robust backend systems.
+
+What really gets me excited? Building intelligent systems with AI and LLMs! There's something magical about creating applications that can understand, reason, and solve problems in ways that weren't possible just a few years ago. I'm constantly tinkering with technologies like LangChain and exploring how LLMs can make software smarter.
+
+When I'm not coding, you'll probably find me diving into AI research papers or experimenting with new frameworks. My physics-trained brain just can't help being curious about how things work under the hood!
+
+Let's connect and build something awesome together! 🚀
