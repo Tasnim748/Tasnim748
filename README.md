@@ -6,7 +6,7 @@
   
   <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="100"/>
   
-  <div id="badges">
+  <div style="display: flex; align-items: center; gap: 15px;">
     <a href="https://www.linkedin.com/in/tasnimibnjakir" target="_blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="20px" height="20px" alt="LinkedIn Badge"/>
     </a>
