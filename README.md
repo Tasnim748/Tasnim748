@@ -84,15 +84,15 @@ Let's connect and build something awesome together! 🚀
 ### Find me on other platforms:
 <p align="left">
 <a href="https://www.linkedin.com/in/tasnimibnjakir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" height="35px" alt="LinkedIn Badge"/>
+    <img src="https://raw.githubusercontent.com/Tasnim748/Tasnim748/b7ca38e8b4fc43cecb25b370af4d1a32a3f7f10f/logos/linkedin_logo_icon.svg" width="35px" height="35px" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.kaggle.com/tasnimjakir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="35px" height="35px" alt="Kaggle Badge"/>
+    <img src="https://raw.githubusercontent.com/Tasnim748/Tasnim748/b7ca38e8b4fc43cecb25b370af4d1a32a3f7f10f/logos/kaggle_logo_icon.svg" width="35px" height="35px" alt="Kaggle Badge"/>
 </a>
 <a href="https://huggingface.co/tasnim748" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35px" height="35px" alt="HF Badge"/>
 </a>
 <a href="https://www.facebook.com/tasnim.i.jakir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35px" height="35px" alt="Facebook Badge"/>
+    <img src="https://raw.githubusercontent.com/Tasnim748/Tasnim748/b7ca38e8b4fc43cecb25b370af4d1a32a3f7f10f/logos/facebook_logo_icon.svg" width="35px" height="35px" alt="Facebook Badge"/>
 </a>
 </p>
